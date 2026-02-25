@@ -14,11 +14,25 @@ public class Clientes
 
 public class Productos
 {
-    
+    public int id {get; set;}
+    public string? codigo {get; set;}
+    public string? nombre {get; set;}
+    public Decimal valor {get; set;}
+   
 }
 
 public class Ventas
 {
+    public int id {get; set;}
+    public string? codigo {get; set;}
+    public int cliente {get; set;}
+    public DateTime fecha {get; set;}
+    public Decimal descuento {get; set;}
+    public Clientes? _cliente {get; set;}
+
+
+
+
     
 }
 public class Venta_productos
