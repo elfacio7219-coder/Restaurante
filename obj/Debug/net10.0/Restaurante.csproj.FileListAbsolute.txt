@@ -1,0 +1,15 @@
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.AssemblyInfoInputs.cache
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.AssemblyInfo.cs
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.sourcelink.json
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\bin\Debug\net10.0\Restaurante.exe
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\bin\Debug\net10.0\Restaurante.deps.json
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\bin\Debug\net10.0\Restaurante.runtimeconfig.json
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\bin\Debug\net10.0\Restaurante.dll
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\bin\Debug\net10.0\Restaurante.pdb
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.dll
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\refint\Restaurante.dll
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.pdb
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\Restaurante.genruntimeconfig.cache
+C:\Users\Fabricio Sanchez\OneDrive\Desktop\Restaurante\obj\Debug\net10.0\ref\Restaurante.dll
